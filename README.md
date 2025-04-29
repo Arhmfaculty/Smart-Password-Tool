@@ -50,8 +50,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/password-pro.git
-   cd password-pro
+   git clone https://github.com/Arhmfaculty/Smart-Password-Tool
+   cd Smart-Password-Tool
    ```
 
 2. Run the application:
@@ -81,7 +81,7 @@
 
 ```
 password-pro/
-├── password_tool.py
+├── passwordChecker.py
 ├── README.md
 ├── <home-image>.png
 ├── <Checker-image>.png
