@@ -35,7 +35,7 @@
 - Returns results: `Weak`, `Moderate`, or `Strong`
 - Offers personalized tips for improving weak passwords
 
-![alt text](Checker.png)
+<img src="Checker.png" width="400"/>
 
 ---
 
@@ -73,7 +73,7 @@
   Randomly creates a secure password, with the option to regenerate and copy.
 
  
-![alt text](Generator.png)
+<img src="Generator.png" width="400"/>
 
 ---
 
