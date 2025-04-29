@@ -2,7 +2,8 @@
 
 **Smart Password Tool (Password Pro)** is a user-friendly Python desktop application that helps users **generate secure passwords** and **check the strength** of their current ones. Built with `Tkinter`, the tool ensures users create strong credentials, helping prevent weak password practices.
 
-![alt text](Home.png))
+<img src="Home.png" width="400"/>
+
 
 
 ---
@@ -34,7 +35,7 @@
 - Returns results: `Weak`, `Moderate`, or `Strong`
 - Offers personalized tips for improving weak passwords
 
-![alt text](Checker.png))
+![alt text](Checker.png)
 
 ---
 
@@ -71,8 +72,8 @@
 - **Generate Strong Password:**  
   Randomly creates a secure password, with the option to regenerate and copy.
 
-📌 **Final Screenshot Here:**  
-![alt text](Generator.png))
+ 
+![alt text](Generator.png)
 
 ---
 
